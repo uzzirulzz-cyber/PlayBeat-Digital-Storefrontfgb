@@ -1,0 +1,112 @@
+For the **PlayBeat Digital storefront**, I’d structure it as a premium, conversion-focused digital marketplace rather than a generic e-commerce homepage.
+
+### Recommended storefront structure
+
+1. **Top Utility Bar**
+   - Instant Digital Delivery
+   - Secure Payments
+   - WhatsApp Support
+   - PKR as default currency
+   - Order Tracking
+
+2. **Premium Header / Navigation**
+   - PlayBeat Digital logo
+   - Search bar: “Search subscriptions, gift cards, software…”
+   - Sign In
+   - Sign Up
+   - Wishlist
+   - Cart
+   - Account
+
+   Main navigation:
+   **Home · AI & Productivity · Streaming · Gift Cards · Software · Gaming · IPTV · Smart Projectors · Web Solutions · All Products**
+
+3. **Hero Section**
+   Main headline:
+   **Everything Digital. One Platform.**
+
+   Supporting text:
+   “Premium subscriptions, AI tools, gift cards, software, entertainment and business solutions — delivered through one trusted digital marketplace.”
+
+   CTAs:
+   **Shop Now**
+   **Explore Categories**
+
+   Use a dark navy/black premium background with silver highlights, subtle blue/orange gradient glow, glassmorphism cards, and floating product visuals.
+
+4. **Shop by Category**
+   Large premium tiles for:
+   - AI Tools
+   - Streaming Accounts
+   - Gift Cards
+   - Gaming
+   - Software
+   - VPN & Security
+   - IPTV
+   - Smart Projectors
+   - Business Web Solutions
+
+5. **Trending Now**
+   Product cards showing image, title, starting price, rating, discount badge, wishlist, Quick View, Add to Cart, and Buy Now.
+
+   Highlight products such as:
+   - ChatGPT
+   - Google AI Pro / Gemini
+   - Canva Pro
+   - CapCut Pro
+   - Netflix Premium
+   - Spotify
+   - YouTube Premium
+   - NordVPN
+   - Grammarly
+   - ElevenLabs
+
+6. **Gift Cards Section**
+   Feature:
+   **PlayStation · Xbox · Steam · Apple · Google Play · Razer Gold**
+
+   Add filters for region and denomination.
+
+7. **Streaming & Entertainment**
+   Netflix, Prime Video, Disney+, HBO Max, YouTube Premium, Spotify and other available services.
+
+8. **Business Solutions**
+   This should be visually different from ordinary product cards.
+
+   Headline:
+   **Build Your Business With PlayBeat Digital**
+
+   Services:
+   - Business Websites
+   - E-commerce Stores
+   - CRM Systems
+   - Admin Dashboards
+   - Custom Web Apps
+   - Automation
+   - Enterprise Solutions
+
+   CTA:
+   **Request a Quote**
+
+9. **Smart Projectors**
+   Dedicated premium physical-product section with large photography, specifications, stock status, delivery information and product comparison.
+
+10. **Why PlayBeat Digital**
+   Use 4–6 trust cards:
+   **Secure Checkout · Fast Fulfilment · Verified Products · Customer Support · Competitive Pricing · Business Solutions**
+
+11. **Deals / Best Value**
+   Separate horizontal sections:
+   **Hot Deals**
+   **Best Sellers**
+   **Fresh Arrivals**
+   **Best Value**
+
+12. **Premium Footer**
+   Include company information, Contact, WhatsApp, Privacy Policy, Terms of Service, Refund Policy, Shipping/Service Policy, support links, account links, payment-method logos and social-media icons.
+
+### Visual direction
+
+I would use **deep navy + charcoal + black**, large clean typography, silver borders, subtle glass panels, premium shadows, restrained gradients and more whitespace. Avoid making the homepage look like a crowded marketplace. Products should feel curated and expensive even when the selling price is low.
+
+The storefront should also keep **customer authentication completely separate from the admin system**: `/signin`, `/signup`, `/account`, `/cart`, `/checkout` and product/category routes should never expose or redirect users into the admin dashboard.
